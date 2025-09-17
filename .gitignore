@@ -1,0 +1,9 @@
+/.idea/
+/.vscode/
+/build/
+/model/
+/output/
+/log/
+/*/__pycache__/
+/*/*/__pycache__/
+/network/FE_HAWP/_C*
